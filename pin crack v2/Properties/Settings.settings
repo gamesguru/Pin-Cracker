@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsApplication1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="strProcessName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GGLes .40.exe</Value>
+    </Setting>
+    <Setting Name="knownId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">knownId</Value>
+    </Setting>
+    <Setting Name="knownPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">knownPass</Value>
+    </Setting>
+    <Setting Name="knownPin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0000</Value>
+    </Setting>
+    <Setting Name="crackingId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">crackingId</Value>
+    </Setting>
+    <Setting Name="crackingPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">crackingPass</Value>
+    </Setting>
+    <Setting Name="crackingStartPin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0000</Value>
+    </Setting>
+    <Setting Name="crackingEndPin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9999</Value>
+    </Setting>
+    <Setting Name="Directory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Nexon\MapleStory</Value>
+    </Setting>
+    <Setting Name="CensoredPass" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CensoredPins" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CloseOrNot" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Windowed" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
